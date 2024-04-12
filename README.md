@@ -1,1 +1,1 @@
-# dengue_caba
+Data analyst role where Buenos Aires Data data will be used to see the numbers of cases that occur in the Autonomous City of Buenos Aires, the cases will be analyzed depending on the communes. A KPI was also put together on whether green zones affected or contributed to the number of cases per zone/commune from one quarter to the next.
